@@ -1,0 +1,113 @@
+                      OLS Regression Results                     
+Dep. Variable:   ,excess_rf_return,  R-squared:         ,   0.641
+Model:           ,OLS             ,  Adj. R-squared:    ,   0.640
+Method:          ,Least Squares   ,  F-statistic:       ,   766.2
+Date:            ,Sun, 20 Mar 2016,  Prob (F-statistic):,1.41e-97
+Time:            ,16:32:45        ,  Log-Likelihood:    ,  836.84
+No. Observations:,   432          ,  AIC:               ,  -1670.
+Df Residuals:    ,   430          ,  BIC:               ,  -1662.
+Df Model:        ,     1          ,                     ,        
+Covariance Type: ,nonrobust       ,                     ,        
+         ,   coef   , std err ,    t    ,P>|t| , [95.0% Conf. Int.]
+Intercept,    0.0097,    0.002,    5.694, 0.000,    0.006     0.013
+Mkt_RF   ,    1.0388,    0.038,   27.680, 0.000,    0.965     1.113
+Omnibus:      ,66.990,  Durbin-Watson:     ,   1.596
+Prob(Omnibus):, 0.000,  Jarque-Bera (JB):  , 187.666
+Skew:         , 0.736,  Prob(JB):          ,1.77e-41
+Kurtosis:     , 5.874,  Cond. No.          ,    22.3                      OLS Regression Results                     
+Dep. Variable:   ,excess_rf_return,  R-squared:         ,   0.641
+Model:           ,OLS             ,  Adj. R-squared:    ,   0.640
+Method:          ,Least Squares   ,  F-statistic:       ,   766.2
+Date:            ,Sun, 20 Mar 2016,  Prob (F-statistic):,1.41e-97
+Time:            ,16:42:02        ,  Log-Likelihood:    ,  836.84
+No. Observations:,   432          ,  AIC:               ,  -1670.
+Df Residuals:    ,   430          ,  BIC:               ,  -1662.
+Df Model:        ,     1          ,                     ,        
+Covariance Type: ,nonrobust       ,                     ,        
+         ,   coef   , std err ,    t    ,P>|t| , [95.0% Conf. Int.]
+Intercept,    0.0097,    0.002,    5.694, 0.000,    0.006     0.013
+Mkt_RF   ,    1.0388,    0.038,   27.680, 0.000,    0.965     1.113
+Omnibus:      ,66.990,  Durbin-Watson:     ,   1.596
+Prob(Omnibus):, 0.000,  Jarque-Bera (JB):  , 187.666
+Skew:         , 0.736,  Prob(JB):          ,1.77e-41
+Kurtosis:     , 5.874,  Cond. No.          ,    22.3                      OLS Regression Results                     
+Dep. Variable:   ,excess_rf_return,  R-squared:         ,   0.641
+Model:           ,OLS             ,  Adj. R-squared:    ,   0.640
+Method:          ,Least Squares   ,  F-statistic:       ,   766.2
+Date:            ,Sun, 20 Mar 2016,  Prob (F-statistic):,1.41e-97
+Time:            ,18:31:34        ,  Log-Likelihood:    ,  836.84
+No. Observations:,   432          ,  AIC:               ,  -1670.
+Df Residuals:    ,   430          ,  BIC:               ,  -1662.
+Df Model:        ,     1          ,                     ,        
+Covariance Type: ,nonrobust       ,                     ,        
+         ,   coef   , std err ,    t    ,P>|t| , [95.0% Conf. Int.]
+Intercept,    0.0097,    0.002,    5.694, 0.000,    0.006     0.013
+Mkt_RF   ,    1.0388,    0.038,   27.680, 0.000,    0.965     1.113
+Omnibus:      ,66.990,  Durbin-Watson:     ,   1.596
+Prob(Omnibus):, 0.000,  Jarque-Bera (JB):  , 187.666
+Skew:         , 0.736,  Prob(JB):          ,1.77e-41
+Kurtosis:     , 5.874,  Cond. No.          ,    22.3                      OLS Regression Results                     
+Dep. Variable:   ,excess_rf_return,  R-squared:         ,   0.641
+Model:           ,OLS             ,  Adj. R-squared:    ,   0.640
+Method:          ,Least Squares   ,  F-statistic:       ,   766.2
+Date:            ,Sun, 20 Mar 2016,  Prob (F-statistic):,1.41e-97
+Time:            ,23:42:33        ,  Log-Likelihood:    ,  836.84
+No. Observations:,   432          ,  AIC:               ,  -1670.
+Df Residuals:    ,   430          ,  BIC:               ,  -1662.
+Df Model:        ,     1          ,                     ,        
+Covariance Type: ,nonrobust       ,                     ,        
+         ,   coef   , std err ,    t    ,P>|t| , [95.0% Conf. Int.]
+Intercept,    0.0097,    0.002,    5.694, 0.000,    0.006     0.013
+Mkt_RF   ,    1.0388,    0.038,   27.680, 0.000,    0.965     1.113
+Omnibus:      ,66.990,  Durbin-Watson:     ,   1.596
+Prob(Omnibus):, 0.000,  Jarque-Bera (JB):  , 187.666
+Skew:         , 0.736,  Prob(JB):          ,1.77e-41
+Kurtosis:     , 5.874,  Cond. No.          ,    22.3                      OLS Regression Results                     
+Dep. Variable:   ,excess_rf_return,  R-squared:         ,   0.641
+Model:           ,OLS             ,  Adj. R-squared:    ,   0.640
+Method:          ,Least Squares   ,  F-statistic:       ,   766.2
+Date:            ,Mon, 21 Mar 2016,  Prob (F-statistic):,1.41e-97
+Time:            ,00:04:32        ,  Log-Likelihood:    ,  836.84
+No. Observations:,   432          ,  AIC:               ,  -1670.
+Df Residuals:    ,   430          ,  BIC:               ,  -1662.
+Df Model:        ,     1          ,                     ,        
+Covariance Type: ,nonrobust       ,                     ,        
+         ,   coef   , std err ,    t    ,P>|t| , [95.0% Conf. Int.]
+Intercept,    0.0097,    0.002,    5.694, 0.000,    0.006     0.013
+Mkt_RF   ,    1.0388,    0.038,   27.680, 0.000,    0.965     1.113
+Omnibus:      ,66.990,  Durbin-Watson:     ,   1.596
+Prob(Omnibus):, 0.000,  Jarque-Bera (JB):  , 187.666
+Skew:         , 0.736,  Prob(JB):          ,1.77e-41
+Kurtosis:     , 5.874,  Cond. No.          ,    22.3                      OLS Regression Results                     
+Dep. Variable:   ,excess_rf_return,  R-squared:         ,   0.641
+Model:           ,OLS             ,  Adj. R-squared:    ,   0.640
+Method:          ,Least Squares   ,  F-statistic:       ,   766.2
+Date:            ,Mon, 21 Mar 2016,  Prob (F-statistic):,1.41e-97
+Time:            ,12:25:25        ,  Log-Likelihood:    ,  836.84
+No. Observations:,   432          ,  AIC:               ,  -1670.
+Df Residuals:    ,   430          ,  BIC:               ,  -1662.
+Df Model:        ,     1          ,                     ,        
+Covariance Type: ,nonrobust       ,                     ,        
+         ,   coef   , std err ,    t    ,P>|t| , [95.0% Conf. Int.]
+Intercept,    0.0097,    0.002,    5.694, 0.000,    0.006     0.013
+Mkt_RF   ,    1.0388,    0.038,   27.680, 0.000,    0.965     1.113
+Omnibus:      ,66.990,  Durbin-Watson:     ,   1.596
+Prob(Omnibus):, 0.000,  Jarque-Bera (JB):  , 187.666
+Skew:         , 0.736,  Prob(JB):          ,1.77e-41
+Kurtosis:     , 5.874,  Cond. No.          ,    22.3                      OLS Regression Results                     
+Dep. Variable:   ,excess_rf_return,  R-squared:         ,   0.500
+Model:           ,OLS             ,  Adj. R-squared:    ,   0.499
+Method:          ,Least Squares   ,  F-statistic:       ,   429.4
+Date:            ,Wed, 23 Mar 2016,  Prob (F-statistic):,1.19e-66
+Time:            ,20:07:39        ,  Log-Likelihood:    ,  687.92
+No. Observations:,   432          ,  AIC:               ,  -1372.
+Df Residuals:    ,   430          ,  BIC:               ,  -1364.
+Df Model:        ,     1          ,                     ,        
+Covariance Type: ,nonrobust       ,                     ,        
+         ,   coef   , std err ,    t    ,P>|t| , [95.0% Conf. Int.]
+Intercept,    0.0133,    0.002,    5.531, 0.000,    0.009     0.018
+Mkt_RF   ,    1.0978,    0.053,   20.723, 0.000,    0.994     1.202
+Omnibus:      ,110.337,  Durbin-Watson:     ,   1.676
+Prob(Omnibus):, 0.000 ,  Jarque-Bera (JB):  , 379.732
+Skew:         , 1.132 ,  Prob(JB):          ,3.49e-83
+Kurtosis:     , 6.996 ,  Cond. No.          ,    22.3
