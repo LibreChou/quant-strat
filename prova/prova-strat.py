@@ -18,7 +18,7 @@ import statsmodels.formula.api as sm
 #import matplotlib.pyplot as plt
 
 
-basedir   = "/Users/liangjh/Workspace/quant-asam/prova/"
+basedir   = "/Users/liangjh/Workspace/quant-strat/prova/"
 inputdir  = basedir + "input/"
 outputdir = basedir + "output/" 
 allocation_buckets = 5
